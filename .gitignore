@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Production
+/dist
+/build
+
+# Misc
+*.tgz
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
